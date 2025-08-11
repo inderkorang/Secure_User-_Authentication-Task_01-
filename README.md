@@ -1,5 +1,9 @@
 # Secure_User-_Authentication-Task_01-
 
+<img width="1047" height="729" alt="Screenshot 2025-08-11 140345" src="https://github.com/user-attachments/assets/e78059d3-3aeb-47b9-9bde-4ff122066df7" />
+
+
+
 I've created a comprehensive secure user authentication system with all the features you requested. Here's what the system includes:
 Key Features:
 🔐 Security Features:
