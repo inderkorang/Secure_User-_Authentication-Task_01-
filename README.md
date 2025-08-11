@@ -42,4 +42,8 @@ Admin: admin@demo.com / admin123
 User: user@demo.com / user123
 Or create your own account!
 
+<img width="951" height="823" alt="Screenshot 2025-08-11 140404" src="https://github.com/user-attachments/assets/dda2f2fb-ebef-419a-a20e-b51d233efad8" />
+
+
+
 The system demonstrates industry-standard authentication practices including proper password hashing, session management, role-based access control, and secure form handling. In a production environment, you'd want to implement server-side authentication with proper database storage, HTTPS, and additional security measures like rate limiting and CSRF protection.RetryClaude can make mistakes. Please double-check responses.
